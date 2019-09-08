@@ -1,0 +1,3 @@
+Name: FranMolleda
+Age: 42
+Favorite color: Red
